@@ -190,6 +190,11 @@
     padding-bottom: 5.5rem;
 }
 
+footer {
+    visibility: hidden;
+    height: 0;
+}
+
 /* Mobile */
 @media (max-width: 900px) {
     .block-container {
