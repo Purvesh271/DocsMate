@@ -12,3 +12,4 @@ langchain-groq
 sentence-transformers
 chromadb
 pydantic
+pypdf
